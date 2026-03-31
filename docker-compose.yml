@@ -1,0 +1,36 @@
+version: '3.9'
+
+services:
+
+  backend:
+    build:
+      context: ./API
+    ports:
+      - "5233:5233"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=server=db;port=3306;database=nyumbadb;user=root;password=lEckympE010#
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ../breeze-next
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: lEckympE010#
+      MYSQL_DATABASE: nyumbadb
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:

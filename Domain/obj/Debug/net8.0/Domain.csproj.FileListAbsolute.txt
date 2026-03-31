@@ -1,0 +1,11 @@
+E:\nyumbabackend\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\nyumbabackend\Domain\bin\Debug\net8.0\Domain.dll
+E:\nyumbabackend\Domain\bin\Debug\net8.0\Domain.pdb
+E:\nyumbabackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyumbabackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\nyumbabackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\nyumbabackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\nyumbabackend\Domain\obj\Debug\net8.0\Domain.dll
+E:\nyumbabackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\nyumbabackend\Domain\obj\Debug\net8.0\Domain.pdb
+E:\nyumbabackend\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,15 @@
+E:\nyumbabackend\Application\bin\Debug\net8.0\Application.deps.json
+E:\nyumbabackend\Application\bin\Debug\net8.0\Application.dll
+E:\nyumbabackend\Application\bin\Debug\net8.0\Application.pdb
+E:\nyumbabackend\Application\bin\Debug\net8.0\Domain.dll
+E:\nyumbabackend\Application\bin\Debug\net8.0\Domain.pdb
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\nyumbabackend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.dll
+E:\nyumbabackend\Application\obj\Debug\net8.0\refint\Application.dll
+E:\nyumbabackend\Application\obj\Debug\net8.0\Application.pdb
+E:\nyumbabackend\Application\obj\Debug\net8.0\ref\Application.dll
